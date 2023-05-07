@@ -1,0 +1,2 @@
+git+https://github.com/Tomizap/linkedin.git
+git+https://github.com/Tomizap/indeed.git
